@@ -1,0 +1,1 @@
+# FinSight-AI-Powered-POS-Intelligence-Platform
