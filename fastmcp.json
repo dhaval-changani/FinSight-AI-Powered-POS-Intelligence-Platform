@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "finsight-pos": {
+      "url": "http://127.0.0.1:9000/mcp",
+      "env": {
+        "MONGODB_URI": "mongodb://localhost:27017/"
+      }
+    }
+  }
+}
