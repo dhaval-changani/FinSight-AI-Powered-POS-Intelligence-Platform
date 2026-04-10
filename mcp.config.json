@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "FinInsights": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "fastmcp",
+        "fastmcp",
+        "run",
+        "/Users/dhaval.changani/Documents/Projects/FinSight-AI-Powered-POS-Intelligence-Platform/main.py"
+      ]
+    }
+  }
+}
